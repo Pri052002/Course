@@ -1,0 +1,17 @@
+/* Certificate.css */
+#certificate {
+    background: linear-gradient(to bottom right, #ffffff, #f0f8ff); /* Soft gradient background */
+    border: 1px solid #ddd; /* Light border for subtle definition */
+}
+
+.text-primary {
+    color: #007bff; /* Bootstrap primary color */
+}
+
+.text-success {
+    color: #28a745; /* Bootstrap success color */
+}
+
+.text-center {
+    text-align: center;
+}

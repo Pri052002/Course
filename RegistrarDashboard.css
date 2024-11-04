@@ -1,0 +1,26 @@
+/* RegistrarDashboard.css */
+.container-fluid {
+    padding: 20px;
+  }
+  
+  h4 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .mb-3 {
+    margin-bottom: 1rem;
+  }
+  
+  .text-primary {
+    color: #007bff;
+  }
+  
